@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
+    "cdn": "node app.js",
     "dev": "nodemon app.js",
-    "cdn:dev":"nodemon self-image-cdn/app.js"
+    "start":"node self-image-cdn/app.js"
   },
   "keywords": [],
   "author": "",
